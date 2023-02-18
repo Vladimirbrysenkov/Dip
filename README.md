@@ -6,15 +6,15 @@
 
 Покупка тура возможна с помощью карты и в кредит. Данные по картам обрабатываются отдельными сервисами (Payment Gate, Credit Gate)
 
-Полные условия и исходные данные описанного кейса можно посмотреть [здесь](https://github.com/netology-code/qa-diploma)
+
 
 ## Документация 
 
-[План автоматизации тестирования веб-формы сервиса покупки туров интернет-банка](https://github.com/daryamorozova/QA-Diploma/blob/master/documents/Plan.md)
+[План автоматизации тестирования веб-формы сервиса покупки туров интернет-банка](https://github.com/Vladimirbrysenkov/Dip/blob/main/documents/Plan.md)
 
-[Отчёт о проведённом тестировании](https://github.com/daryamorozova/QA-Diploma/blob/master/documents/Report.md)
+[Отчёт о проведённом тестировании](https://github.com/Vladimirbrysenkov/Dip/blob/main/documents/Report.md)
 
-[Комплексный отчёт о проведённой автоматизации тестирования](https://github.com/daryamorozova/QA-Diploma/blob/master/documents/Summary.md)
+[Комплексный отчёт о проведённой автоматизации тестирования](https://github.com/Vladimirbrysenkov/Dip/blob/main/documents/Summary.md)
 
 
 
@@ -23,9 +23,9 @@
 Перед запуском необходимо выполнить следующие предусловия. Если у вас уже есть необходимое ПО, то понадобится только п.1 и запуск Docker.
 
 *Предусловия:*
-1. Необходимо склонировать репозиторий или скачать архив по [ссылке](https://github.com/daryamorozova/QA-Diploma). Или воспользоваться VCS Git, встроенной в 
+1. Необходимо склонировать репозиторий или скачать архив по [ссылке](https://github.com/Vladimirbrysenkov/Dip). Или воспользоваться VCS Git, встроенной в 
 IntelliJ IDEA.
-2. Установать и запустить Docker Desktop. Это можно сделать [здесь](https://docs.docker.com/desktop/) в зависимости от операционной системы. Дополнительные инструкции можно найти по [ссылке](https://github.com/netology-code/aqa-homeworks/blob/aqa4/docker/installation.md)
+2. Установить и запустить Docker Desktop. Это можно сделать [здесь](https://docs.docker.com/desktop/) в зависимости от операционной системы.
 3. Открыть проект в IntelliJ IDEA
 
 ### Запуск
